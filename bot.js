@@ -6,9 +6,8 @@ client.on("ready", () => {
   console.log("The server is ready to be OOFED");
 });
  
-let prefix = "o!";
 client.on("message", (message) => {
-  if (!message.content.startsWith(prefix) || message.author.bot) return;
+  if (!message.content.startsWith(config.prefix) || message.author.bot) return;
  
   if (message.content.startsWith(prefix + "ping")) {
     message.channel.send("pong!");
