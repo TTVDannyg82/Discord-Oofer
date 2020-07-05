@@ -10,6 +10,8 @@ By clicking Code > Clone you accept this.
 ## Setup
 
 Install Python if you havent already at https://www.python.org/ftp/python/3.7.8/python-3.7.8-amd64.exe
+
+
 Go to Bot.py, click edit and notepad should open.
 Scroll ALL the way to the bottom an you should see client.run("BOT TOKEN HERE") Put your bot token in there
 
