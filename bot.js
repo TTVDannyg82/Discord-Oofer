@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const config = require("./config.json");
 
 client.on("ready", () => {
-  console.log("The server is ready to be OOFED");
+  console.log("The server is ready to be OOFED. The command is (your prefix)oof / o!oof");
 });
  
 client.on("message", (message) => {
