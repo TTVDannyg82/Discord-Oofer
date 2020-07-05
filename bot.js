@@ -106,5 +106,6 @@ message.channel.send("OOF")
 message.channel.send("OOF")
 message.channel.send("OOF")
 message.channel.send("OOF")
+}
 
 client.login(config.token);
