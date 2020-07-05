@@ -9,7 +9,8 @@ By clicking Code > Clone you accept this.
 
 ## Setup
 
-Go to Config.json for the setup
+Go to Config.json for the setup. Enter your bots token instaed of insert-bot-token-here.
+The prefix is changeable if you like. Just replace o! with your wanted prefix
 
 ## Packages
 
