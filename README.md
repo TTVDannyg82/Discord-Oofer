@@ -9,12 +9,13 @@ By clicking Code > Clone you accept this.
 
 ## Setup
 
-Go to Config.json for the setup. Enter your bots token instaed of insert-bot-token-here.
-The prefix is changeable if you like. Just replace o! with your wanted prefix
+Go to Bot.py, click edit and notepad should open.
+Scroll ALL the way to the bottom an you should see client.run("BOT TOKEN HERE") Put your bot token in there
 
 ## Packages
 
 Run Install Packages.bat to install the needed packages
+Or do CTRL + R, Type CMD and hit enter. Type py -3 -m pip install -U discord. py.
 
 ## Licence
 
