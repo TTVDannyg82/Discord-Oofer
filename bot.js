@@ -106,5 +106,5 @@ message.channel.send("OOF")
 message.channel.send("OOF")
 message.channel.send("OOF")
 message.channel.send("OOF")
- 
-client.login("SuperSecretBotTokenHere");
+
+client.login(config.token);
